@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1353256292 source:/home/delfasoulas/Desktop/final_Shell/MyShell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<signal.h>
+	<string.h>
+	<sys/wait.h>
+	<sys/types.h>
+	<ctype.h>
+	<errno.h>
+	<sys/stat.h>
+	<fcntl.h>
+
